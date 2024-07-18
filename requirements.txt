@@ -5,3 +5,4 @@ numpy
 scikit-learn
 imblearn
 xgboost
+streamlit_option_menu
