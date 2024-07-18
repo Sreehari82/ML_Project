@@ -1,0 +1,9 @@
+Model,Accuracy Score
+KNeighborsClassifier,88.73239437
+SVC,71.72568119
+GaussianNB,54.0344873
+DecisionTreeClassifier,91.98367777
+RandomForestClassifier,95.23496117
+AdaBoostClassifier,66.73686982
+GradientBoostingClassifier,84.66499934
+XGBClassifier,95.65618007
