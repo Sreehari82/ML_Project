@@ -34,7 +34,7 @@ The prediction section showcases how the trained models are used to predict the 
 - Visualization of the prediction results
 - Explanation of the model's decision-making process
 
-# Conclusiom
+# Conclusion
 Model Performance : The machine learning model was evaluated using various performance metrics. This project successfully showed that machine learning can predict the stage of liver cirrhosis with high accuracy. This achievement highlights the potential of these techniques for predicting diseases based on clinical data.Furthermore, this analysis provides a strong foundation for applying machine learning to predict other diseases. The steps followed in this notebook, from data preparation to model training and evaluation, can be applied to many medical datasets.This showcases the versatility and potential of machine learning algorithms in bioinformatics.
 
 # Streamlit Web App
